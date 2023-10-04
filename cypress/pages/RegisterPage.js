@@ -13,7 +13,6 @@ export class RegisterPage {
         continue: '.btn.btn-primary',
         accountCreationMessage: 'h1'
 
-
     }
 
     openURL() {
